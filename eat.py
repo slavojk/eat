@@ -6,4 +6,4 @@ import time
 a = []
 while True:
 	a.append(' ' * 10**6)
-	time.sleep(1)
+#	time.sleep(1)
